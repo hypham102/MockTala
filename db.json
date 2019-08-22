@@ -1,0 +1,282 @@
+{
+  "id": 348639524498540,
+  "subtotal": 12599000,
+  "discount_amount": 0,
+  "shipping_amount": 0,
+  "handling_fee": 0,
+  "gift_card_amount": 0,
+  "grand_total": 12599000,
+  "tikixu_point_earning": 0,
+  "has_shopping_cart_gifts": false,
+  "coupon_code": null,
+  "gift_card_code": [],
+  "customer_id": 100091698,
+  "customer_reward": {
+    "total": 0,
+    "used": 0,
+    "applicable": 0,
+    "is_valid": 2
+  },
+  "able_to_be_sent_as_gift": false,
+  "is_sent_as_gift": false,
+  "items": [
+    {
+      "id": 348664601885628,
+      "product_id": 116876,
+      "attributeset_group_name": "Máy Ảnh - Máy Quay Phim",
+      "brand": "Sony",
+      "master_product_id": 116865,
+      "product_child_id": null,
+      "product_name": "Máy Ảnh Sony DSC W800 - 20.1 Megapixel, Zoom 5x - Đen",
+      "product_sku": "6009420710951",
+      "seller_id": 1,
+      "seller_name": "Tiki Trading",
+      "seller_url": "javascript:void(0)",
+      "product_url_path": "may-nh-sony-dsc-w800-20-1-megapixel-zoom-5x-den-p413871.html?spid=116876",
+      "product_url": "https://api.tala.xyz/v2/may-nh-sony-dsc-w800-20-1-megapixel-zoom-5x-den-p413871.html?spid=116876",
+      "url_key": "may-nh-sony-dsc-w800-20-1-megapixel-zoom-5x-den-p413871",
+      "product_type": "simple",
+      "product_is_visible": true,
+      "thumbnail_url": "https://uat.tikicdn.com/cache/200x200/media/catalog/product/s/o/sony-2796-649831-1-zoom_1.jpg",
+      "qty": 1,
+      "price": 1599000,
+      "list_price": 1599000,
+      "discount_amount": 0,
+      "subtotal": 1599000,
+      "parent_item_id": 0,
+      "is_catalog_gift": false,
+      "is_shopping_cart_gift": false,
+      "is_service_setup": false,
+      "bookcareable": false,
+      "is_book": false,
+      "product_virtual_type": null,
+      "current_seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "link": "javascript:void(0)",
+        "logo": "http://uat.cdn.tiki.services/ts/seller/ef/54/5a/ef545a8af0f0385f706be0595f932f89.png"
+      },
+      "messages": [],
+      "product_stock_item": {
+        "qty": 16,
+        "min_sale_qty": 1,
+        "max_sale_qty": 20,
+        "preorder_date": false
+      }
+    },
+    {
+      "id": 348664640428740,
+      "product_id": 113482,
+      "attributeset_group_name": "Chương trình khuyến mãi 2",
+      "brand": null,
+      "master_product_id": 410740,
+      "product_child_id": null,
+      "product_name": "Cà Phê Cùng Tony",
+      "product_sku": "8935082600294",
+      "seller_id": 4560,
+      "seller_name": "Seller JD",
+      "seller_url": "javascript:void(0)",
+      "product_url_path": "ca-phe-cung-tony-p410740.html?spid=113482",
+      "product_url": "https://api.tala.xyz/v2/ca-phe-cung-tony-p410740.html?spid=113482",
+      "url_key": "ca-phe-cung-tony-p410740",
+      "product_type": "simple",
+      "product_is_visible": true,
+      "thumbnail_url": "https://uat.tikicdn.com/cache/200x200/media/catalog/product/b/_/b_a-s_ch-ngo_i.png",
+      "qty": 1,
+      "price": 11000000,
+      "list_price": 13192000,
+      "discount_amount": 0,
+      "subtotal": 11000000,
+      "parent_item_id": 0,
+      "is_catalog_gift": false,
+      "is_shopping_cart_gift": false,
+      "is_service_setup": false,
+      "bookcareable": true,
+      "is_book": true,
+      "product_virtual_type": "register_subscription",
+      "current_seller": {
+        "id": 4560,
+        "name": "Seller JD",
+        "link": "javascript:void(0)",
+        "logo": "http://uat.cdn.tiki.services/ts/seller/b5/a2/23/e9e5cbe5afbc2cff1bb9276fbfa2e002.png"
+      },
+      "messages": [],
+      "product_stock_item": {
+        "qty": 109708,
+        "min_sale_qty": 1,
+        "max_sale_qty": 20,
+        "preorder_date": false
+      }
+    }
+  ],
+  "items_vat_disable": [
+    {
+      "name": "Cà Phê Cùng Tony",
+      "qty": 1,
+      "supplier": "Seller JD"
+    }
+  ],
+  "is_vat": true,
+  "shipping_methods": [
+    {
+      "id": 11,
+      "name": "Giao Hàng Tiêu Chuẩn",
+      "code": "standard_all",
+      "estimation_text": null,
+      "shipping_fee": null,
+      "description": null,
+      "message": "Đơn hàng sẽ được giao 2 lần do có sản phẩm nằm ở các kho khác nhau",
+      "is_disabled": false,
+      "issues": null,
+      "is_multiple": true,
+      "show_shipments": true,
+      "is_selected": false
+    },
+    {
+      "id": 13,
+      "name": "TikiNOW Giao Nhanh",
+      "code": "multiple",
+      "estimation_text": null,
+      "shipping_fee": 0,
+      "description": null,
+      "message": "Đơn hàng sẽ được giao 2 lần do có sản phẩm nằm ở các kho khác nhau",
+      "is_disabled": false,
+      "issues": null,
+      "is_multiple": true,
+      "show_shipments": true,
+      "is_selected": true
+    }
+  ],
+  "unsupported_shipping_methods": [],
+  "shipping_method_issues": [],
+  "shipping_address": {
+    "address_id": "99870190",
+    "name": "Hy Pham",
+    "street": "CMT8",
+    "ward": "Phường 05",
+    "city": "Quận Phú Nhuận",
+    "region": "Hồ Chí Minh",
+    "country": null,
+    "telephone": "0910101010"
+  },
+  "shipping_plan": {
+    "id": 13,
+    "name": "TikiNOW Giao Nhanh",
+    "code": "multiple",
+    "estimation_text": null,
+    "shipping_fee": 0
+  },
+  "shipping_method": {
+    "id": 13,
+    "name": "TikiNOW Giao Nhanh",
+    "code": "multiple",
+    "estimation_text": null,
+    "shipping_fee": 0
+  },
+  "payment_method": null,
+  "last_payment_method": {
+    "method": "cod",
+    "method_name": "Thanh toán tiền mặt",
+    "icon": null,
+    "selected_token": null,
+    "selected_bank": null
+  },
+  "price_summary": [
+    {
+      "name": "Tạm tính",
+      "value": "12.599.000 ₫"
+    },
+    {
+      "name": "Phí vận chuyển",
+      "value": "0 ₫"
+    }
+  ],
+  "shipments": [
+    {
+      "id": "348664656575479",
+      "items": [
+        {
+          "id": "348664656575952",
+          "product_id": 116876,
+          "product_sku": "6009420710951",
+          "product_name": "Máy Ảnh Sony DSC W800 - 20.1 Megapixel, Zoom 5x - Đen",
+          "qty": 1,
+          "price": 1599000,
+          "thumbnail_url": "https://uat.tikicdn.com/cache/200x200/media/catalog/product/s/o/sony-2796-649831-1-zoom_1.jpg",
+          "seller_name": "Tiki Trading"
+        }
+      ],
+      "items_qty": 1,
+      "subtotal": 1599000,
+      "grand_total": 1599000,
+      "shipping_methods": [
+        {
+          "id": 1,
+          "code": "standard",
+          "name": "Giao hàng tiêu chuẩn"
+        },
+        {
+          "id": 3,
+          "code": "2h",
+          "name": "TikiNOW Giao Nhanh"
+        }
+      ],
+      "shipping_method": {
+        "id": 3,
+        "name": "TikiNOW Giao Nhanh",
+        "code": "2h",
+        "shipping_fee": 0,
+        "title_text": "TikiNOW Giao Nhanh: Dự kiến trước 12:00 ngày mai",
+        "short_title_text": "Giao trước 12:00 ngày mai"
+      }
+    },
+    {
+      "id": "348664656579820",
+      "items": [
+        {
+          "id": "348664656577080",
+          "product_id": 113482,
+          "product_sku": "8935082600294",
+          "product_name": "Cà Phê Cùng Tony",
+          "qty": 1,
+          "price": 11000000,
+          "thumbnail_url": "https://uat.tikicdn.com/cache/200x200/media/catalog/product/b/_/b_a-s_ch-ngo_i.png",
+          "seller_name": "Seller JD"
+        }
+      ],
+      "items_qty": 1,
+      "subtotal": 11000000,
+      "grand_total": 11000000,
+      "shipping_methods": [
+        {
+          "id": 1,
+          "code": "standard",
+          "name": "Giao hàng tiêu chuẩn"
+        }
+      ],
+      "shipping_method": {
+        "id": 1,
+        "name": "Giao hàng tiêu chuẩn",
+        "code": "standard",
+        "shipping_fee": 0,
+        "title_text": "Giao hàng tiêu chuẩn: Dự kiến Thứ hai, 26/08/2019 - không giao ngày Thứ Bảy & Chủ Nhật",
+        "short_title_text": "Giao vào Thứ hai, 26/08"
+      }
+    }
+  ],
+  "tikinow_free_trial": {
+    "shipping_plan_id": 13,
+    "promotion_text": "Promotion text for tiki now",
+    "details": {
+      "title": "Testing",
+      "heading": "Heading",
+      "benefits": "Benefits",
+      "note": "Note for tikinow",
+      "cta": {
+        "title": "Title for cta",
+        "description": "Description for cta"
+      }
+    }
+  },
+  "tikinow_earning": null
+}
